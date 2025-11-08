@@ -42,11 +42,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.worldvectorlogo.com/logos/kafka.svg" height="40">
-    <source media="(prefers-color-scheme: light)" srcset="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" height="40">
-    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" height="40" alt="kafka logo" />
-  </picture>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" height="40" alt="kafka logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" height="40" alt="spark logo" />
   <img width="12" />
