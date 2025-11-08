@@ -7,7 +7,7 @@
 </p>
 
 <p>
-  💡 I’m passionate about <strong>learning</strong>, <strong>sharing knowledge</strong>, and crafting 
+  💡 I'm passionate about <strong>learning</strong>, <strong>sharing knowledge</strong>, and crafting 
   <strong>clean, efficient, and impactful code</strong>. My main skill is learning fast and applying a 
   <strong>strong analytical mindset</strong> to solve complex problems.
 </p>
@@ -25,10 +25,14 @@
       and latency reduction.</li>
 </ul>
 
+<h3>💪 My biggest strength: Attitude</h3>
 <p>
-  🧠 I’m <strong>open-minded</strong>, <strong>adaptable</strong>, a <strong>critical thinker</strong>, and a 
-  <strong>problem-solving lover</strong> — obsessed with <strong>clean code</strong>, <strong>automation</strong>, and 
-  <strong>technical innovation</strong>.
+  Beyond technical skills, my <strong>positive and proactive attitude</strong> sets me apart. I'm 
+  <strong>open-minded</strong>, <strong>resilient</strong>, and thrive in <strong>fast-paced environments</strong>. 
+  I approach challenges with <strong>curiosity and determination</strong>, always eager to learn, adapt, and 
+  collaborate. I'm a <strong>critical thinker</strong> and a <strong>problem-solving enthusiast</strong> who believes 
+  that the right mindset combined with <strong>clean code</strong> and <strong>technical excellence</strong> can 
+  drive real impact.
 </p>
 
 <hr>
@@ -38,15 +42,19 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" height="40" alt="kafka logo" style="background-color:white; padding:4px; border-radius:6px;" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.worldvectorlogo.com/logos/kafka.svg" height="40">
+    <source media="(prefers-color-scheme: light)" srcset="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" height="40">
+    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" height="40" alt="kafka logo" />
+  </picture>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" height="40" alt="spark logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="40" alt="aws logo" style="background-color:white; padding:4px; border-radius:6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="aws logo" />
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" height="40" alt="databricks logo" style="background-color:white; padding:4px; border-radius:6px;" />
+  <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" height="40" alt="databricks logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
   <img width="12" />
@@ -54,7 +62,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="sql logo" />
 </div>
 
 <hr>
