@@ -1,3 +1,18 @@
+<!-- CSS inline para que los íconos se adapten a modo oscuro/claro -->
+<style>
+  .tech-icons img {
+    height: 40px;
+    margin-right: 12px;
+    transition: filter 0.3s ease;
+    filter: invert(0%) brightness(0) saturate(100%) contrast(100%);
+  }
+  @media (prefers-color-scheme: dark) {
+    .tech-icons img {
+      filter: invert(100%) brightness(100%) saturate(100%) contrast(100%);
+    }
+  }
+</style>
+
 <h2 align="center">👋 Hi, I'm Camilo Vélez</h2>
 
 <p align="center">
@@ -35,26 +50,17 @@
 
 <h2 align="left">🧩 I code with</h2>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="kafka logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg" height="40" alt="aws logo" style="filter: invert(55%) sepia(76%) saturate(390%) hue-rotate(1deg) brightness(96%) contrast(92%);" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/databricks.svg" height="40" alt="databricks logo" style="filter: invert(53%) sepia(99%) saturate(7475%) hue-rotate(358deg) brightness(100%) contrast(103%);" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sql logo" />
+<div align="left" class="tech-icons">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="kafka logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="apache logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure logo" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg" alt="aws logo" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/databricks.svg" alt="databricks logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="sql logo" />
 </div>
 
 <hr>
