@@ -44,7 +44,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="kafka logo" title="Apache Kafka" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" height="40" alt="spark logo" title="Apache Spark" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" height="40" alt="pyspark logo" title="PySpark" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" title="Microsoft Azure" />
   <img width="12" />
