@@ -46,7 +46,7 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="40" alt="aws logo" style="background-color:white; padding:4px; border-radius:6px;" />
   <img width="12" />
-  <img src="https://seeklogo.com/images/D/databricks-logo-0D2C4C0F18-seeklogo.com.png" height="40" alt="databricks logo" style="background-color:white; padding:4px; border-radius:6px;" />
+  <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" height="40" alt="databricks logo" style="background-color:white; padding:4px; border-radius:6px;" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
   <img width="12" />
