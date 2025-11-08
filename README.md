@@ -44,9 +44,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="aws logo" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg" height="40" alt="aws logo" style="filter: invert(55%) sepia(76%) saturate(390%) hue-rotate(1deg) brightness(96%) contrast(92%);" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg" height="40" alt="databricks logo" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/databricks.svg" height="40" alt="databricks logo" style="filter: invert(53%) sepia(99%) saturate(7475%) hue-rotate(358deg) brightness(100%) contrast(103%);" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
   <img width="12" />
