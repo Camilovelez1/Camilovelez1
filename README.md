@@ -1,6 +1,6 @@
-<h2 align="center">👋 Hi, I'm Camilo Vélez</h2>
+<h2 align="left">👋 Hi, I'm Camilo Vélez</h2>
 
-<p align="center">
+<p align="left">
   <strong>Data Scientist & Tech Lead</strong> with over <strong>6 years of experience</strong> delivering 
   scalable and real-time data solutions across <strong>healthcare, logistics, social welfare,</strong> and 
   <strong>pension fund</strong> sectors.
@@ -38,27 +38,16 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="kafka logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg" height="40" alt="kafka logo" style="background-color:white; padding:4px; border-radius:6px;" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" />
   <img width="12" />
-
-  <!-- AWS icon adaptive -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazonaws-white.svg">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg" height="40" alt="aws logo" />
-  </picture>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="40" alt="aws logo" style="background-color:white; padding:4px; border-radius:6px;" />
   <img width="12" />
-
-  <!-- Databricks icon adaptive -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/databricks-white.svg">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/databricks.svg" height="40" alt="databricks logo" />
-  </picture>
+  <img src="https://seeklogo.com/images/D/databricks-logo-0D2C4C0F18-seeklogo.com.png" height="40" alt="databricks logo" style="background-color:white; padding:4px; border-radius:6px;" />
   <img width="12" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
